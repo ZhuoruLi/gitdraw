@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T00:29:11.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="P7B5tqpjWNEmJqLwYTip" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T00:32:12.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="15MajVdaQTcx09U7Whv7" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="976" dy="2871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,18 @@
         </mxCell>
         <mxCell id="n3eyag-onrYNyp-S-Wmy-59" value="&lt;div title=&quot;Page 9&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;div style=&quot;&quot; class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div title=&quot;Page 11&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: SimHei;&quot;&gt;从搜索种子获得搜索域&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-family: Calistoga;&quot;&gt;&lt;br&gt;(4.3节)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="-1860" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n3eyag-onrYNyp-S-Wmy-60" value="&lt;div title=&quot;Page 41&quot; class=&quot;page&quot; style=&quot;font-size: 11px;&quot;&gt;&#xa;			&lt;div class=&quot;layoutArea&quot; style=&quot;font-size: 11px;&quot;&gt;&#xa;				&lt;div class=&quot;column&quot; style=&quot;font-size: 11px;&quot;&gt;&#xa;					&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: SimSun;&quot;&gt;体素化&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;				&lt;/div&gt;&#xa;			&lt;/div&gt;&#xa;		&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-2280" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n3eyag-onrYNyp-S-Wmy-61" value="脉冲函数" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="571" y="-2225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3eyag-onrYNyp-S-Wmy-62" value="傅里叶变换" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-2120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3eyag-onrYNyp-S-Wmy-63" value="球面谐波变换" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="-2120" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
